@@ -1,0 +1,12 @@
+# A test case that's not possible because there are too many
+# patients that each eat up at least half of the free space.
+
+Doctor A: 8
+Doctor B: 8
+Doctor C: 8
+Patient 1: 5
+Patient 2: 5
+Patient 3: 5
+Patient 4: 4
+Patient 5: 3
+Patient 6: 2

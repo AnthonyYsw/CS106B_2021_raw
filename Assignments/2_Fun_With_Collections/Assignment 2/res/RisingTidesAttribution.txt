@@ -1,0 +1,12 @@
+The raw data for these samples comes from the National Oceanic and Atmospheric Administration's website:
+
+    https://maps.ngdc.noaa.gov/viewers/wcs-client/
+    
+Some of the data were smoothed using a two-step grid refinement algorithm followed by a Gaussian blur.
+
+We heard about this data source after reading Baker Franke's "Mountain Paths" Nifty assignment, available here:
+
+    http://nifty.stanford.edu/2016/franke-mountain-paths/
+    
+The MarsOlmpusMons.terrain and MarsCraters.terrain files were created by former Winter 2020 CS106B student Varun
+Shenoy based on the data available online at ASU (http://www.mars.asu.edu/data/mola_color/).

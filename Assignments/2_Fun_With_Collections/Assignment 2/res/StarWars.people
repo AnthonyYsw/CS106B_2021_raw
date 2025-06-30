@@ -1,0 +1,22 @@
+Person{ "Darth Vader", {'A':-13, 'N':4, 'C':13, 'O':11, 'E':-9} }
+Person{ "Luke Skywalker", {'A':2, 'E':-2, 'O':5, 'N':0, 'C':10} }
+Person{ "Han Solo", {'E':16, 'N':5, 'C':12, 'O':9, 'A':-1} }
+Person{ "Chewbacca", {'C':4, 'N':0, 'A':1, 'O':6, 'E':-5} }
+Person{ "Obi-Wan Kenobi", {'A':8, 'O':11, 'E':-2, 'C':9, 'N':1} }
+Person{ "Darth Sidious", {'O':13, 'E':-3, 'A':-7, 'N':-1, 'C':20} }
+Person{ "Princess Leia", {'O':8, 'E':7, 'A':9, 'C':7, 'N':3} }
+Person{ "Yoda", {'A':13, 'O':8, 'E':4, 'C':16, 'N':19} }
+Person{ "C-3PO", {'E':6, 'A':2, 'N':-5, 'C':-2, 'O':3} }
+Person{ "Kylo Ren", {'O':6, 'E':-2, 'C':8, 'N':-8, 'A':-12} }
+Person{ "Rey", {'E':-4, 'A':11, 'O':0, 'C':-2, 'N':0} }
+Person{ "Boba Fett", {'O':0, 'A':-10, 'E':-2, 'C':20, 'N':5} }
+Person{ "Darth Maul", {'N':7, 'C':6, 'E':2, 'O':6, 'A':-6} }
+Person{ "Jabba the Hutt", {'A':-9, 'C':-4, 'N':-8, 'O':-3, 'E':-3} }
+Person{ "Jar Jar Binks", {'A':5, 'E':3, 'O':-2, 'N':-11, 'C':-6} }
+Person{ "Count Dooku", {'O':11, 'E':-2, 'N':-3, 'C':14, 'A':-7} }
+Person{ "Mace Windu", {'A':-4, 'C':12, 'N':3, 'O':6, 'E':-1} }
+Person{ "Grand Moff Tarkin", {'A':-6, 'E':2, 'O':7, 'C':22, 'N':0} }
+Person{ "Plo Koon", {'E':3, 'A':7, 'N':10, 'C':0, 'O':8} }
+Person{ "Commander Cody", {'A':-6, 'C':12, 'N':2, 'E':2, 'O':1} }
+Person{ "Captain Rex", {'E':1, 'A':4, 'O':3, 'C':9, 'N':6} }
+Person{ "Gonk Droid", {'E':-8, 'O':-8, 'C':2, 'N':-2, 'A':-4} }

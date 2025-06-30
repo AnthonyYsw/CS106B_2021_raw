@@ -1,0 +1,4 @@
+Person{ "Hufflepuff", {'N':6, 'A':12, 'O':4, 'C':-10, 'E':6} }
+Person{ "Slytherin", {'N':4, 'C':7, 'E':7, 'A':-9, 'O':5} }
+Person{ "Ravenclaw", {'A':0, 'O':8, 'E':4, 'N':4, 'C':16} }
+Person{ "Gryffindor", {'N':1, 'C':0, 'E':9, 'O':5, 'A':1} }

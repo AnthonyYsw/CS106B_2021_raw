@@ -1,0 +1,15 @@
+Disney.people was a joint effort between Francisco Pernice and Julio Ballista.
+
+Hogwarts.people was created by Maya Ziv.
+
+StarWars.people was created by Richard Lin.
+
+Brooklyn99.people and Vegetables.people were created by Jessica Chen. Vegetables.people was inspired by https://www.blogthings.com/whatvegetableareyouquiz/.
+
+MyersBriggs.people was created by Tori Qiu.
+
+BabyAnimals.people was created by Eric Bear.
+
+AB5C.questions contains questions taken from on the AB5C inventory assembled at the Oregon Research Institute (https://ipip.ori.org/).
+
+All other data files hastily cobbled together by Keith Schwarz.

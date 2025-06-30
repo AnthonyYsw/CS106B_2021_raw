@@ -1,0 +1,13 @@
+# A test case that's possible, but only if you don't always assign the first unloaded doctor the first patient.
+
+Doctor A: 8
+Doctor B: 8
+Doctor C: 8
+Patient 1: 4
+Patient 2: 1
+Patient 3: 4
+Patient 4: 1
+Patient 5: 4
+Patient 6: 1
+Patient 7: 4
+Patient 8: 1

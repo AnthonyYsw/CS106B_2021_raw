@@ -1,0 +1,10 @@
+# This test case has a number of cities linked in the structure of an ethane molecule
+
+H11 (2, 1): C1
+H21 (1, 2): C1
+H31 (2, 3): C1
+C1 (2, 2): C2
+C2 (3, 2): C1
+H12 (3, 1): C2
+H22 (4, 2): C2
+H32 (3, 3): C2

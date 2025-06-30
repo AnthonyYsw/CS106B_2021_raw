@@ -1,0 +1,16 @@
+Person{ "ISTJ - The Inspector", {'A':-3, 'E':0, 'O':-4, 'N':5, 'C':8} }
+Person{ "ISTP - The Crafter", {'E':1, 'A':5, 'C':-11, 'N':4, 'O':4} }
+Person{ "ISJF - The Protector", {'O':9, 'E':5, 'A':14, 'N':4, 'C':13} }
+Person{ "ISFP - The Artist", {'O':8, 'E':5, 'A':9, 'C':-1, 'N':1} }
+Person{ "ENTP - The Debater", {'A':-5, 'E':15, 'O':2, 'N':-2, 'C':3} }
+Person{ "INFJ - The Advocate", {'E':-5, 'O':10, 'C':1, 'N':3, 'A':8} }
+Person{ "INFP - The Mediator", {'E':-9, 'O':9, 'A':9, 'N':9, 'C':0} }
+Person{ "INTJ - The Architect", {'E':-4, 'O':17, 'A':1, 'C':10, 'N':-1} }
+Person{ "INTP - The Thinker", {'O':0, 'A':4, 'C':6, 'N':2, 'E':-8} }
+Person{ "ESTP - The Persuader", {'E':8, 'O':7, 'A':4, 'N':-1, 'C':0} }
+Person{ "ESTJ - The Director", {'O':-3, 'A':-2, 'N':-7, 'C':15, 'E':4} }
+Person{ "ESFP - The Performer", {'E':22, 'O':-1, 'N':5, 'C':2, 'A':0} }
+Person{ "ESFJ - The Caregiver", {'E':3, 'O':4, 'A':20, 'C':4, 'N':1} }
+Person{ "ENFP - The Champion", {'E':21, 'O':-1, 'A':7, 'N':4, 'C':-3} }
+Person{ "ENFJ - The Giver", {'A':10, 'E':10, 'O':9, 'C':3, 'N':1} }
+Person{ "ENTJ - The Commander", {'N':8, 'C':16, 'A':-4, 'O':1, 'E':6} }

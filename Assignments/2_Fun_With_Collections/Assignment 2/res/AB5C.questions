@@ -1,0 +1,486 @@
+Question{ "I am the life of the party.", {E:1} }
+Question{ "I talk to a lot of different people at parties.", {E:1} }
+Question{ "I start conversations.", {E:1} }
+Question{ "I love large parties.", {E:1} }
+Question{ "I don't talk a lot.", {E:-1} }
+Question{ "I keep in the background.", {E:-1} }
+Question{ "I am quiet around strangers.", {E:-1} }
+Question{ "I don't like to draw attention to myself.", {E:-1} }
+Question{ "I bottle up my feelings.", {E:-1} }
+Question{ "I keep my thoughts to myself.", {E:-1} }
+Question{ "I make friends easily.", {A:1, E:1} }
+Question{ "I am open about my feelings.", {A:1, E:1} }
+Question{ "I act comfortably with others.", {A:1, E:1} }
+Question{ "I radiate joy.", {A:1, E:1} }
+Question{ "I warm up quickly to others.", {A:1, E:1} }
+Question{ "I am hard to get to know.", {A:-1, E:-1} }
+Question{ "I am a very private person.", {A:-1, E:-1} }
+Question{ "I avoid contacts with others.", {A:-1, E:-1} }
+Question{ "I keep others at a distance.", {A:-1, E:-1} }
+Question{ "I reveal little about myself.", {A:-1, E:-1} }
+Question{ "I automatically take charge.", {C:1, E:1} }
+Question{ "I can easily push myself forward.", {C:1, E:1} }
+Question{ "I try to lead others.", {C:1, E:1} }
+Question{ "I turn plans into actions.", {C:1, E:1} }
+Question{ "I stick up for myself.", {C:1, E:1} }
+Question{ "I am always busy.", {C:1, E:1} }
+Question{ "I come up with a solution right away.", {C:1, E:1} }
+Question{ "I do a lot in my spare time.", {C:1, E:1} }
+Question{ "I know what I want.", {C:1, E:1} }
+Question{ "I let myself be pushed around.", {C:-1, E:-1} }
+Question{ "I am not highly motivated to succeed.", {C:-1, E:-1} }
+Question{ "I need a lot of time to do things.", {C:-1, E:-1} }
+Question{ "I feel comfortable around people.", {N:1, E:1} }
+Question{ "I am comfortable in unfamiliar situations.", {N:1, E:1} }
+Question{ "I have a lot of fun.", {N:1, E:1} }
+Question{ "I am not embarrassed easily.", {N:1, E:1} }
+Question{ "I love life.", {N:1, E:1} }
+Question{ "I often feel uncomfortable around others.", {N:-1, E:-1} }
+Question{ "I find it difficult to approach others.", {N:-1, E:-1} }
+Question{ "I retreat from others.", {N:-1, E:-1} }
+Question{ "I give up easily.", {N:-1, E:-1} }
+Question{ "I only feel comfortable with friends.", {N:-1, E:-1} }
+Question{ "I take charge.", {O:1, E:1} }
+Question{ "I know how to captivate people.", {O:1, E:1} }
+Question{ "I express myself easily.", {O:1, E:1} }
+Question{ "I am the first to act.", {O:1, E:1} }
+Question{ "I never at a loss for words.", {O:1, E:1} }
+Question{ "I have little to say.", {O:-1, E:-1} }
+Question{ "I have difficulty expressing my feelings.", {O:-1, E:-1} }
+Question{ "I wait for others to lead the way.", {O:-1, E:-1} }
+Question{ "I am afraid to draw attention to myself.", {O:-1, E:-1} }
+Question{ "I let others make the decisions.", {O:-1, E:-1} }
+Question{ "I dare to say anything.", {A:-1, E:1} }
+Question{ "I am not afraid of providing criticism.", {A:-1, E:1} }
+Question{ "I boast about my virtues.", {A:-1, E:1} }
+Question{ "I know no limits.", {A:-1, E:1} }
+Question{ "I know how to get around the rules.", {A:-1, E:1} }
+Question{ "I can take strong measures.", {A:-1, E:1} }
+Question{ "I don't mind being the center of attention.", {A:-1, E:1} }
+Question{ "I make demands on others.", {A:-1, E:1} }
+Question{ "I can't stand confrontations.", {A:1, E:-1} }
+Question{ "I wait for my turn.", {A:1, E:-1} }
+Question{ "I hate to seem pushy.", {A:1, E:-1} }
+Question{ "I act wild and crazy.", {C:-1, E:1} }
+Question{ "I am open about myself to others.", {C:-1, E:1} }
+Question{ "I let myself go.", {C:-1, E:1} }
+Question{ "I disclose my intimate thoughts.", {C:-1, E:1} }
+Question{ "I laugh my way through life.", {C:-1, E:1} }
+Question{ "I express childlike joy.", {C:-1, E:1} }
+Question{ "I joke around a lot.", {C:-1, E:1} }
+Question{ "I like to amuse others.", {C:-1, E:1} }
+Question{ "I seldom joke around.", {C:1, E:-1} }
+Question{ "I prefer to deal with strangers in a formal manner.", {C:1, E:-1} }
+Question{ "I do most of the talking.", {N:-1, E:1} }
+Question{ "I talk too much.", {N:-1, E:1} }
+Question{ "I speak loudly.", {N:-1, E:1} }
+Question{ "I make myself the center of attention.", {N:-1, E:1} }
+Question{ "I like to attract attention.", {N:-1, E:1} }
+Question{ "I never stop talking.", {N:-1, E:1} }
+Question{ "I make a lot of noise.", {N:-1, E:1} }
+Question{ "I demand to be the center of interest.", {N:-1, E:1} }
+Question{ "I speak softly.", {N:1, E:-1} }
+Question{ "I dislike talking about myself.", {N:1, E:-1} }
+Question{ "I can't do without the company of others.", {O:-1, E:1} }
+Question{ "I enjoy being part of a loud crowd.", {O:-1, E:1} }
+Question{ "I enjoy being on the go.", {O:-1, E:1} }
+Question{ "I like to be alone.", {O:1, E:-1} }
+Question{ "I seek quiet.", {O:1, E:-1} }
+Question{ "I enjoy silence.", {O:1, E:-1} }
+Question{ "I don't like crowded events.", {O:1, E:-1} }
+Question{ "I dislike neighbors living too close.", {O:1, E:-1} }
+Question{ "I amuse myself easily.", {O:1, E:-1} }
+Question{ "I go my own way.", {O:1, E:-1} }
+Question{ "I sympathize with others' feelings.", {A:1} }
+Question{ "I respect others' feelings.", {A:1} }
+Question{ "I take others' interests into account.", {A:1} }
+Question{ "I like to be of service to others.", {A:1} }
+Question{ "I appreciate the viewpoints of others.", {A:1} }
+Question{ "I feel little concern for others.", {A:-1} }
+Question{ "I am not interested in other people's problems.", {A:-1} }
+Question{ "I am indifferent to the feelings of others.", {A:-1} }
+Question{ "I take no time for others.", {A:-1} }
+Question{ "I can't be bothered with other's needs.", {A:-1} }
+Question{ "I am interested in people.", {E:1, A:1} }
+Question{ "I make people feel at ease.", {E:1, A:1} }
+Question{ "I know how to comfort others.", {E:1, A:1} }
+Question{ "I inquire about others' well-being.", {E:1, A:1} }
+Question{ "I take time out for others.", {E:1, A:1} }
+Question{ "I make people feel welcome.", {E:1, A:1} }
+Question{ "I show my gratitude.", {E:1, A:1} }
+Question{ "I make others feel good.", {E:1, A:1} }
+Question{ "I feel others' emotions.", {E:1, A:1} }
+Question{ "I am not really interested in others.", {E:-1, A:-1} }
+Question{ "I rarely smile.", {E:-1, A:-1} }
+Question{ "I would never cheat on my taxes.", {C:1, A:1} }
+Question{ "I respect the privacy of others.", {C:1, A:1} }
+Question{ "I like harmony in my life.", {C:1, A:1} }
+Question{ "I try to follow the rules.", {C:1, A:1} }
+Question{ "I respect authority.", {C:1, A:1} }
+Question{ "I don't care about rules.", {C:-1, A:-1} }
+Question{ "I turn my back on others.", {C:-1, A:-1} }
+Question{ "I only talk about my own interests.", {C:-1, A:-1} }
+Question{ "I overestimate my achievements.", {C:-1, A:-1} }
+Question{ "I scheme against others.", {C:-1, A:-1} }
+Question{ "I act at the expense of others.", {C:-1, A:-1} }
+Question{ "I break rules.", {C:-1, A:-1} }
+Question{ "I am easy to satisfy.", {N:1, A:1} }
+Question{ "I have a good word for everyone.", {N:1, A:1} }
+Question{ "I am on good terms with nearly everyone.", {N:1, A:1} }
+Question{ "I trust others.", {N:1, A:1} }
+Question{ "I respect others.", {N:1, A:1} }
+Question{ "I trust what people say.", {N:1, A:1} }
+Question{ "I am hard to satisfy.", {N:-1, A:-1} }
+Question{ "I am quick to judge others.", {N:-1, A:-1} }
+Question{ "I insult people.", {N:-1, A:-1} }
+Question{ "I find it hard to forgive others.", {N:-1, A:-1} }
+Question{ "I contradict others.", {N:-1, A:-1} }
+Question{ "I criticize others' shortcomings.", {N:-1, A:-1} }
+Question{ "I anticipate the needs of others.", {O:1, A:1} }
+Question{ "I sense others' wishes.", {O:1, A:1} }
+Question{ "I love to reflect on things.", {O:1, A:1} }
+Question{ "I try to stay in touch with myself.", {O:1, A:1} }
+Question{ "I work on improving myself.", {O:1, A:1} }
+Question{ "I pretend to be concerned for others.", {O:-1, A:-1} }
+Question{ "I don't have a soft side.", {O:-1, A:-1} }
+Question{ "I treat people as inferiors.", {O:-1, A:-1} }
+Question{ "I am not in touch with my feelings.", {O:-1, A:-1} }
+Question{ "I value cooperation over competition.", {E:-1, A:1} }
+Question{ "I listen to my conscience.", {E:-1, A:1} }
+Question{ "I impose my will on others.", {E:1, A:-1} }
+Question{ "I love a good fight.", {E:1, A:-1} }
+Question{ "I seek conflict.", {E:1, A:-1} }
+Question{ "I think too highly of myself.", {E:1, A:-1} }
+Question{ "I tell tall stories about myself.", {E:1, A:-1} }
+Question{ "I play tricks on others.", {E:1, A:-1} }
+Question{ "I enjoy crude jokes.", {E:1, A:-1} }
+Question{ "I comment loudly about others.", {E:1, A:-1} }
+Question{ "I enjoy being reckless.", {E:1, A:-1} }
+Question{ "I do dangerous things.", {E:1, A:-1} }
+Question{ "I am concerned about others.", {C:-1, A:1} }
+Question{ "I am deeply moved by others' misfortunes.", {C:-1, A:1} }
+Question{ "I feel sympathy for those who are worse off than myself.", {C:-1, A:1} }
+Question{ "I take an interest in other people's lives.", {C:-1, A:1} }
+Question{ "I like to do things for others.", {C:-1, A:1} }
+Question{ "I reassure others.", {C:-1, A:1} }
+Question{ "I demand a lot from others.", {C:1, A:-1} }
+Question{ "I don't fall for sob-stories.", {C:1, A:-1} }
+Question{ "I listen to my brain rather than my heart.", {C:1, A:-1} }
+Question{ "I tend to dislike soft-hearted people.", {C:1, A:-1} }
+Question{ "I try not to think about the needy.", {C:1, A:-1} }
+Question{ "I look down on any weakness.", {C:1, A:-1} }
+Question{ "I believe people should fend for themselves.", {C:1, A:-1} }
+Question{ "I suffer from others' sorrows.", {N:-1, A:1} }
+Question{ "I listen to my heart rather than my brain.", {N:-1, A:1} }
+Question{ "I love children's movies.", {N:-1, A:1} }
+Question{ "I want to please others.", {N:-1, A:1} }
+Question{ "I remember my friends' birthdays.", {N:-1, A:1} }
+Question{ "I cherish mementos.", {N:-1, A:1} }
+Question{ "I want to mean something to others.", {N:-1, A:1} }
+Question{ "I believe crying helps me feel better.", {N:-1, A:1} }
+Question{ "I show my feelings.", {N:-1, A:1} }
+Question{ "I don't understand people who get emotional.", {N:1, A:-1} }
+Question{ "I don't get excited about things.", {N:1, A:-1} }
+Question{ "I don't call people just to talk.", {N:1, A:-1} }
+Question{ "I don't care about dressing nicely.", {N:1, A:-1} }
+Question{ "I have a soft heart.", {O:-1, A:1} }
+Question{ "I go out of my way for others.", {O:-1, A:1} }
+Question{ "I think of others first.", {O:-1, A:1} }
+Question{ "I will do anything for others.", {O:-1, A:1} }
+Question{ "I like to please others.", {O:-1, A:1} }
+Question{ "I wouldn't harm a fly.", {O:-1, A:1} }
+Question{ "I make enemies.", {O:1, A:-1} }
+Question{ "I oppose authority.", {O:1, A:-1} }
+Question{ "I believe that I am better than others.", {O:1, A:-1} }
+Question{ "I seek danger.", {O:1, A:-1} }
+Question{ "I put people under pressure.", {O:1, A:-1} }
+Question{ "I try to outdo others.", {O:1, A:-1} }
+Question{ "I believe only in myself.", {O:1, A:-1} }
+Question{ "I accomplish my work on time.", {C:1} }
+Question{ "I do things according to a plan.", {C:1} }
+Question{ "I am careful to avoid making mistakes.", {C:1} }
+Question{ "I keep my checkbook balanced.", {C:1} }
+Question{ "I like to plan ahead.", {C:1} }
+Question{ "I return borrowed items.", {C:1} }
+Question{ "I often forget to put things back in their proper place.", {C:-1} }
+Question{ "I neglect my duties.", {C:-1} }
+Question{ "I take tasks too lightly.", {C:-1} }
+Question{ "I leave my work undone.", {C:-1} }
+Question{ "I do not plan ahead.", {C:-1} }
+Question{ "I put off unpleasant tasks.", {C:-1} }
+Question{ "I am often late to work.", {C:-1} }
+Question{ "I am exacting in my work.", {E:1, C:1} }
+Question{ "I make plans and stick to them.", {E:1, C:1} }
+Question{ "I get chores done right away.", {E:1, C:1} }
+Question{ "I follow through with my plans.", {E:1, C:1} }
+Question{ "I finish what I start.", {E:1, C:1} }
+Question{ "I waste my time.", {E:-1, C:-1} }
+Question{ "I find it difficult to get down to work.", {E:-1, C:-1} }
+Question{ "I postpone decisions.", {E:-1, C:-1} }
+Question{ "I have difficulty starting tasks.", {E:-1, C:-1} }
+Question{ "I need a push to get started.", {E:-1, C:-1} }
+Question{ "I frequently forget to do things.", {E:-1, C:-1} }
+Question{ "I follow directions.", {A:1, C:1} }
+Question{ "I keep myself well-groomed.", {A:1, C:1} }
+Question{ "I check over my work.", {A:1, C:1} }
+Question{ "I behave properly.", {A:1, C:1} }
+Question{ "I stick to the rules.", {A:1, C:1} }
+Question{ "I appreciate good manners.", {A:1, C:1} }
+Question{ "I do improper things.", {A:-1, C:-1} }
+Question{ "I disregard rules.", {A:-1, C:-1} }
+Question{ "I do the opposite of what is asked.", {A:-1, C:-1} }
+Question{ "I pay no attention to my appearance.", {A:-1, C:-1} }
+Question{ "I don't think laws apply to me.", {A:-1, C:-1} }
+Question{ "I make rash decisions.", {A:-1, C:-1} }
+Question{ "I say inappropriate things.", {A:-1, C:-1} }
+Question{ "I am always prepared.", {N:1, C:1} }
+Question{ "I carry out my plans.", {N:1, C:1} }
+Question{ "I get to work at once.", {N:1, C:1} }
+Question{ "I am not easily distracted.", {N:1, C:1} }
+Question{ "I handle tasks smoothly.", {N:1, C:1} }
+Question{ "I make a mess of things.", {N:-1, C:-1} }
+Question{ "I am easily distracted.", {N:-1, C:-1} }
+Question{ "I mess things up.", {N:-1, C:-1} }
+Question{ "I shirk my duties.", {N:-1, C:-1} }
+Question{ "I don't see things through.", {N:-1, C:-1} }
+Question{ "I do things at the last minute.", {N:-1, C:-1} }
+Question{ "I can't make up my mind.", {N:-1, C:-1} }
+Question{ "I pay attention to details.", {O:1, C:1} }
+Question{ "I complete tasks successfully.", {O:1, C:1} }
+Question{ "I have an eye for detail.", {O:1, C:1} }
+Question{ "I demand quality.", {O:1, C:1} }
+Question{ "I set high standards for myself and others.", {O:1, C:1} }
+Question{ "I make well-considered decisions.", {O:1, C:1} }
+Question{ "I follow through on my commitments.", {O:1, C:1} }
+Question{ "I detect mistakes.", {O:1, C:1} }
+Question{ "I think ahead.", {O:1, C:1} }
+Question{ "I seldom notice details.", {O:-1, C:-1} }
+Question{ "I put little time and effort into my work.", {O:-1, C:-1} }
+Question{ "I don't pay attention.", {O:-1, C:-1} }
+Question{ "I purchase only practical things.", {E:-1, C:1} }
+Question{ "I tend to dislike impulsive people.", {E:-1, C:1} }
+Question{ "I take precautions.", {E:-1, C:1} }
+Question{ "I never splurge.", {E:-1, C:1} }
+Question{ "I never spend more than I can afford.", {E:-1, C:1} }
+Question{ "I do crazy things.", {E:1, C:-1} }
+Question{ "I often make last-minute plans.", {E:1, C:-1} }
+Question{ "I am easily talked into doing silly things.", {E:1, C:-1} }
+Question{ "I laugh at the slightest provocation.", {E:1, C:-1} }
+Question{ "I like to laugh out loud.", {E:1, C:-1} }
+Question{ "I like to act on a whim.", {E:1, C:-1} }
+Question{ "I jump into things without thinking.", {E:1, C:-1} }
+Question{ "I do things in a logical order.", {A:-1, C:1} }
+Question{ "I come straight to the point.", {A:-1, C:1} }
+Question{ "I believe in a logical answer for everything.", {A:-1, C:1} }
+Question{ "I get a head start on others.", {A:-1, C:1} }
+Question{ "I dislike imperfect work.", {A:-1, C:1} }
+Question{ "I believe in an eye for an eye.", {A:-1, C:1} }
+Question{ "I have no sympathy for criminals.", {A:-1, C:1} }
+Question{ "I reason logically.", {A:-1, C:1} }
+Question{ "I sympathize with the homeless.", {A:1, C:-1} }
+Question{ "I am not as strict as I should be.", {A:1, C:-1} }
+Question{ "I let people pull my leg.", {A:1, C:-1} }
+Question{ "I do things in a half-way manner.", {A:1, C:-1} }
+Question{ "I let my attention wander off.", {A:1, C:-1} }
+Question{ "I believe that criminals should receive help rather than punishment.", {A:1, C:-1} }
+Question{ "I continue until everything is perfect.", {N:-1, C:1} }
+Question{ "I want every detail taken care of.", {N:-1, C:1} }
+Question{ "I want everything to be \"just right.\"", {N:-1, C:1} }
+Question{ "I want things to proceed according to plan.", {N:-1, C:1} }
+Question{ "I demand perfection in others.", {N:-1, C:1} }
+Question{ "I keep a sharp eye on others' work.", {N:-1, C:1} }
+Question{ "I expect dedicated work from others.", {N:-1, C:1} }
+Question{ "I am not bothered by messy people.", {N:1, C:-1} }
+Question{ "I am not bothered by disorder.", {N:1, C:-1} }
+Question{ "I like order.", {O:-1, C:1} }
+Question{ "I follow a schedule.", {O:-1, C:1} }
+Question{ "I work according to a routine.", {O:-1, C:1} }
+Question{ "I like to tidy up.", {O:-1, C:1} }
+Question{ "I do things by the book.", {O:-1, C:1} }
+Question{ "I take good care of my belongings.", {O:-1, C:1} }
+Question{ "I see that rules are observed.", {O:-1, C:1} }
+Question{ "I leave my belongings around.", {O:1, C:-1} }
+Question{ "I leave a mess in my room.", {O:1, C:-1} }
+Question{ "I dislike routine.", {O:1, C:-1} }
+Question{ "I seldom get mad.", {N:1} }
+Question{ "I am not easily bothered by things.", {N:1} }
+Question{ "I am not easily frustrated.", {N:1} }
+Question{ "I seldom take offense.", {N:1} }
+Question{ "I keep my cool.", {N:1} }
+Question{ "I get stressed out easily.", {N:-1} }
+Question{ "I get upset easily.", {N:-1} }
+Question{ "I am easily disturbed.", {N:-1} }
+Question{ "I change my mood a lot.", {N:-1} }
+Question{ "I get caught up in my problems.", {N:-1} }
+Question{ "I seldom feel blue.", {E:1, N:1} }
+Question{ "I feel comfortable with myself.", {E:1, N:1} }
+Question{ "I adapt easily to new situations.", {E:1, N:1} }
+Question{ "I look at the bright side of life.", {E:1, N:1} }
+Question{ "I am sure of my ground.", {E:1, N:1} }
+Question{ "I often feel blue.", {E:-1, N:-1} }
+Question{ "I worry about things.", {E:-1, N:-1} }
+Question{ "I feel threatened easily.", {E:-1, N:-1} }
+Question{ "I dislike myself.", {E:-1, N:-1} }
+Question{ "I am filled with doubts about things.", {E:-1, N:-1} }
+Question{ "I rarely get irritated.", {A:1, N:1} }
+Question{ "I am not easily annoyed.", {A:1, N:1} }
+Question{ "I take things as they come.", {A:1, N:1} }
+Question{ "I accept people as they are.", {A:1, N:1} }
+Question{ "I get angry easily.", {A:-1, N:-1} }
+Question{ "I am often in a bad mood.", {A:-1, N:-1} }
+Question{ "I get furious.", {A:-1, N:-1} }
+Question{ "I snap at people.", {A:-1, N:-1} }
+Question{ "I lose my temper.", {A:-1, N:-1} }
+Question{ "I have days when I'm mad at the world.", {A:-1, N:-1} }
+Question{ "I remain calm under pressure.", {C:1, N:1} }
+Question{ "I easily resist temptations.", {C:1, N:1} }
+Question{ "I rarely overindulge.", {C:1, N:1} }
+Question{ "I am able to control my cravings.", {C:1, N:1} }
+Question{ "I am guided by my moods.", {C:-1, N:-1} }
+Question{ "I am not sure where my life is going.", {C:-1, N:-1} }
+Question{ "I don't know why I do some of the things I do.", {C:-1, N:-1} }
+Question{ "I get out of control.", {C:-1, N:-1} }
+Question{ "I can't concentrate.", {C:-1, N:-1} }
+Question{ "I do things I later regret.", {C:-1, N:-1} }
+Question{ "I am calm even in tense situations.", {O:1, N:1} }
+Question{ "I don't lose my head.", {O:1, N:1} }
+Question{ "I know how to cope.", {O:1, N:1} }
+Question{ "I can stand criticism.", {O:1, N:1} }
+Question{ "I take offense easily.", {O:-1, N:-1} }
+Question{ "I panic easily.", {O:-1, N:-1} }
+Question{ "I am easily hurt.", {O:-1, N:-1} }
+Question{ "I am easily offended.", {O:-1, N:-1} }
+Question{ "I feel crushed by setbacks.", {O:-1, N:-1} }
+Question{ "I become overwhelmed by events.", {O:-1, N:-1} }
+Question{ "I am easily frightened.", {O:-1, N:-1} }
+Question{ "I am easily confused.", {O:-1, N:-1} }
+Question{ "I keep my emotions under control.", {E:-1, N:1} }
+Question{ "I let others finish what they are saying.", {E:-1, N:1} }
+Question{ "I demand attention.", {E:1, N:-1} }
+Question{ "I react intensely.", {E:1, N:-1} }
+Question{ "I talk even when I know I shouldn't.", {E:1, N:-1} }
+Question{ "I often make a fuss.", {E:1, N:-1} }
+Question{ "I shoot my mouth off.", {E:1, N:-1} }
+Question{ "I am easily excited.", {E:1, N:-1} }
+Question{ "I blurt out whatever comes into my mind.", {E:1, N:-1} }
+Question{ "I barge in on conversations.", {E:1, N:-1} }
+Question{ "I like to gossip.", {E:1, N:-1} }
+Question{ "I seldom get emotional.", {A:-1, N:1} }
+Question{ "I am not easily affected by my emotions.", {A:-1, N:1} }
+Question{ "I get overwhelmed by emotions.", {A:1, N:-1} }
+Question{ "I cry easily.", {A:1, N:-1} }
+Question{ "I burst into tears.", {A:1, N:-1} }
+Question{ "I am easily moved to tears.", {A:1, N:-1} }
+Question{ "I cry during movies.", {A:1, N:-1} }
+Question{ "I wear my heart on my sleeve.", {A:1, N:-1} }
+Question{ "I have crying fits.", {A:1, N:-1} }
+Question{ "I want everything to add up perfectly.", {C:1, N:-1} }
+Question{ "I demand obedience.", {C:1, N:-1} }
+Question{ "I keep up an appearance.", {C:1, N:-1} }
+Question{ "I love order and regularity.", {C:1, N:-1} }
+Question{ "I am attached to conventional ways.", {C:1, N:-1} }
+Question{ "I want things done my way.", {C:1, N:-1} }
+Question{ "I am a creature of habit.", {C:1, N:-1} }
+Question{ "I try to impress others.", {C:1, N:-1} }
+Question{ "I can't stand being contradicted.", {C:1, N:-1} }
+Question{ "I want to be told I am right.", {C:1, N:-1} }
+Question{ "I experience very few emotional highs and lows.", {O:-1, N:1} }
+Question{ "I tend to feel the same every day.", {O:-1, N:1} }
+Question{ "I am always in the same mood.", {O:-1, N:1} }
+Question{ "I rarely notice my emotional reactions.", {O:-1, N:1} }
+Question{ "I am relaxed most of the time.", {O:-1, N:1} }
+Question{ "I am not easily stirred.", {O:-1, N:1} }
+Question{ "I am not disturbed by events.", {O:-1, N:1} }
+Question{ "I experience my emotions intensely.", {O:1, N:-1} }
+Question{ "I have frequent mood swings.", {O:1, N:-1} }
+Question{ "I am swayed by my emotions.", {O:1, N:-1} }
+Question{ "I can be stirred up easily.", {O:1, N:-1} }
+Question{ "I have a rich vocabulary.", {O:1} }
+Question{ "I use difficult words.", {O:1} }
+Question{ "I make insightful remarks.", {O:1} }
+Question{ "I show a mastery of language.", {O:1} }
+Question{ "I enjoy thinking about things.", {O:1} }
+Question{ "I try to understand myself.", {O:1} }
+Question{ "I am not interested in abstract ideas.", {O:-1} }
+Question{ "I will not probe deeply into a subject.", {O:-1} }
+Question{ "I have a poor vocabulary.", {O:-1} }
+Question{ "I dislike learning.", {O:-1} }
+Question{ "I skip difficult words while reading.", {O:-1} }
+Question{ "I am full of ideas.", {E:1, O:1} }
+Question{ "I have excellent ideas.", {E:1, O:1} }
+Question{ "I carry the conversation to a higher level.", {E:1, O:1} }
+Question{ "I come up with bold plans.", {E:1, O:1} }
+Question{ "I quickly think up new ideas.", {E:1, O:1} }
+Question{ "I am good at many things.", {E:1, O:1} }
+Question{ "I do not have a good imagination.", {E:-1, O:-1} }
+Question{ "I have difficulty imagining things.", {E:-1, O:-1} }
+Question{ "I can't come up with new ideas.", {E:-1, O:-1} }
+Question{ "I see beauty in things that others might not notice.", {A:1, O:1} }
+Question{ "I take time to reflect on things.", {A:1, O:1} }
+Question{ "I make beautiful things.", {A:1, O:1} }
+Question{ "I enjoy the beauty of nature.", {A:1, O:1} }
+Question{ "I enjoy discussing movies and books with others.", {A:1, O:1} }
+Question{ "I like music.", {A:1, O:1} }
+Question{ "I love flowers.", {A:1, O:1} }
+Question{ "I love beautiful things.", {A:1, O:1} }
+Question{ "I do not like concerts.", {A:-1, O:-1} }
+Question{ "I do not enjoy watching dance performances.", {A:-1, O:-1} }
+Question{ "I learn quickly.", {C:1, O:1} }
+Question{ "I use my brain.", {C:1, O:1} }
+Question{ "I excel in what I do.", {C:1, O:1} }
+Question{ "I look at the facts.", {C:1, O:1} }
+Question{ "I meet challenges.", {C:1, O:1} }
+Question{ "I seek explanations of things.", {C:1, O:1} }
+Question{ "I need things explained only once.", {C:1, O:1} }
+Question{ "I know how to apply my knowledge.", {C:1, O:1} }
+Question{ "I can handle complex problems.", {N:1, O:1} }
+Question{ "I am quick to understand things.", {N:1, O:1} }
+Question{ "I catch on to things quickly.", {N:1, O:1} }
+Question{ "I love to read challenging material.", {N:1, O:1} }
+Question{ "I am able to find out things by myself.", {N:1, O:1} }
+Question{ "I can handle a lot of information.", {N:1, O:1} }
+Question{ "I quickly get the idea of things.", {N:1, O:1} }
+Question{ "I avoid difficult reading material.", {N:-1, O:-1} }
+Question{ "I try to avoid complex people.", {N:-1, O:-1} }
+Question{ "I don't understand things.", {N:-1, O:-1} }
+Question{ "I spend time reflecting on things.", {E:-1, O:1} }
+Question{ "I enjoy spending time by myself.", {E:-1, O:1} }
+Question{ "I live in a world of my own.", {E:-1, O:1} }
+Question{ "I enjoy my privacy.", {E:-1, O:1} }
+Question{ "I don't mind eating alone.", {E:-1, O:1} }
+Question{ "I do things at my own pace.", {E:-1, O:1} }
+Question{ "I enjoy contemplation.", {E:-1, O:1} }
+Question{ "I prefer to be alone.", {E:-1, O:1} }
+Question{ "I have a point of view all my own.", {E:-1, O:1} }
+Question{ "I want to be left alone.", {E:-1, O:1} }
+Question{ "I can't stand being alone.", {E:1, O:-1} }
+Question{ "I don't like to ponder over things.", {E:1, O:-1} }
+Question{ "I like to solve complex problems.", {A:-1, O:1} }
+Question{ "I ask questions that nobody else does.", {A:-1, O:1} }
+Question{ "I know the answers to many questions.", {A:-1, O:1} }
+Question{ "I challenge others' points of view.", {A:-1, O:1} }
+Question{ "I can easily link facts together.", {A:-1, O:1} }
+Question{ "I have difficulty understanding abstract ideas.", {A:1, O:-1} }
+Question{ "I avoid philosophical discussions.", {A:1, O:-1} }
+Question{ "I am not interested in theoretical discussions.", {A:1, O:-1} }
+Question{ "I consider myself an average person.", {A:1, O:-1} }
+Question{ "I am not interested in speculating about things.", {A:1, O:-1} }
+Question{ "I have a vivid imagination.", {C:-1, O:1} }
+Question{ "I prefer variety to routine.", {C:-1, O:1} }
+Question{ "I believe in the importance of art.", {C:-1, O:1} }
+Question{ "I enjoy wild flights of fantasy.", {C:-1, O:1} }
+Question{ "I need a creative outlet.", {C:-1, O:1} }
+Question{ "I do not like art.", {C:1, O:-1} }
+Question{ "I do not enjoy going to art museums.", {C:1, O:-1} }
+Question{ "I do not like poetry.", {C:1, O:-1} }
+Question{ "I seldom get lost in thought.", {C:1, O:-1} }
+Question{ "I seldom daydream.", {C:1, O:-1} }
+Question{ "I look for hidden meanings in things.", {N:-1, O:1} }
+Question{ "I like to get lost in thought.", {N:-1, O:1} }
+Question{ "I think deeply about things.", {N:-1, O:1} }
+Question{ "I need to understand my motives.", {N:-1, O:1} }
+Question{ "I tend to analyze things.", {N:-1, O:1} }
+Question{ "I tend to think about something for hours.", {N:-1, O:1} }
+Question{ "I enjoy examining myself and my life.", {N:-1, O:1} }
+Question{ "I rarely look for a deeper meaning in things.", {N:1, O:-1} }
+Question{ "I never challenge things.", {N:1, O:-1} }

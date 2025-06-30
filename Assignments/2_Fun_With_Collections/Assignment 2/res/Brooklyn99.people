@@ -1,0 +1,6 @@
+Person{ "Jake Peralta", {'C':-3, 'N':5, 'A':5, 'E':12, 'O':6} }
+Person{ "Rosa Diaz", {'N':1, 'A':-11, 'C':4, 'O':1, 'E':1} }
+Person{ "Terry Jeffords", {'N':-5, 'O':2, 'E':-3, 'A':10, 'C':2} }
+Person{ "Amy Santiago", {'A':-3, 'N':0, 'C':20, 'E':-3, 'O':2} }
+Person{ "Gina Linetti", {'A':-3, 'N':1, 'C':-9, 'E':10, 'O':2} }
+Person{ "Raymond Holt", {'N':6, 'A':0, 'O':10, 'E':0, 'C':9} }

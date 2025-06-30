@@ -1,0 +1,13 @@
+# A more complex test for Doctors Without Orders.
+#
+# Although the total amount of time available to the doctors
+# is sufficient to accommodate everyone, not everyone can be
+# seen because the slack space just doesn't quite add up.
+
+Doctor Oddball: 7
+Doctor Oddman: 7
+Doctor McOdd: 7
+Patient Evenman: 4
+Patient Evenston: 4
+Patient McEven: 4
+Patient Evan: 4

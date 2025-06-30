@@ -1,0 +1,17 @@
+# A more complex test for Doctors Without Orders.
+#
+# The only way to get this to assign the doctor with
+# the most free time the patients who need the middle
+# amount of time. Specifically:
+#
+# Dr. Workaholic should get two 5-hour patients.
+# Dr. Average should get one 8-hour patient.
+# Dr. Lazy should get one 6-hour patient.
+
+Doctor Workaholic: 10
+Doctor Average: 8
+Doctor Lazy: 6
+Patient EightHour: 8
+Patient SixHour: 6
+Patient FiveHour1: 5
+Patient FiveHour2: 5

@@ -1,0 +1,6 @@
+Person{ "Carrot", {'A':-4, 'C':-2, 'N':2, 'E':6, 'O':9} }
+Person{ "Broccoli", {'O':2, 'E':-6, 'N':3, 'A':3, 'C':12} }
+Person{ "Green Bean", {'N':0, 'O':2, 'E':4, 'C':6, 'A':9} }
+Person{ "Onion", {'E':2, 'O':11, 'N':0, 'A':-3, 'C':-2} }
+Person{ "Potato", {'C':7, 'N':8, 'A':16, 'E':6, 'O':2} }
+Person{ "Mushroom", {'C':5, 'N':-6, 'A':0, 'O':11, 'E':-7} }

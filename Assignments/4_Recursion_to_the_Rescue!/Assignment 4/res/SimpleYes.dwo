@@ -1,0 +1,14 @@
+# A simple test case for your Doctors Without Orders function.
+# The doctors here should have exactly enough space to fit
+# everyone.
+
+Doctor A: 4
+Doctor B: 4
+Patient 1: 1
+Patient 2: 1
+Patient 3: 1
+Patient 4: 1
+Patient 5: 1
+Patient 6: 1
+Patient 7: 1
+Patient 8: 1

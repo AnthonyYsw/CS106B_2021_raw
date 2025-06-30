@@ -1,0 +1,5 @@
+Person{ "Puppy", {'E':8, 'O':2, 'N':-3, 'C':-14, 'A':10} }
+Person{ "Kitty", {'E':-5, 'O':-4, 'A':-1, 'N':0, 'C':4} }
+Person{ "Bunny", {'A':14, 'N':0, 'E':3, 'O':2, 'C':-2} }
+Person{ "Baby Seal", {'A':9, 'C':-10, 'E':1, 'O':-1, 'N':-5} }
+Person{ "Baby Hamster", {'C':-1, 'O':0, 'E':9, 'N':0, 'A':-6} }
