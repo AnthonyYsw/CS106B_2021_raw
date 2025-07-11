@@ -1,5 +1,8 @@
 # CS106B 2021
 
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/AnthonyYsw/CS106B_2021_raw/blob/main/README.md)
+[![zh-CN](https://img.shields.io/badge/lang-中-red.svg)](https://github.com/AnthonyYsw/CS106B_2021_raw/blob/main/README.zh-CN.md)
+
 All resources from Stanford CS106B 2021 are stored here. This is the best version of CS106B for self-learners, as it has the most complete set of resources available online for free. Downloaded from the [Stanford CS106B Website](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1214/)
 
 This repository is shared solely for study purposes.
